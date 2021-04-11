@@ -9,8 +9,12 @@ send_mms.rb                MMS 발송 예제
 ```
 send_alimtalk.rb           알림톡 발송 예제
 send_chingutalk.rb         친구톡 발송 예제
-````
+```
 
+### 네이버톡톡 발송 예제
+```
+send_naver.rb              네이버톡톡 발송 예제
+```
 
 ### 그룹 발송 예제
 ```
