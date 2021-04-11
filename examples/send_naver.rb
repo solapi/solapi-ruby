@@ -7,8 +7,8 @@ require '../lib/message.rb'
 res = Message.send_many([
   {
     type: 'NSA',
-    to: '01029577580',
-    from: '01048597580',
+    to: '01000000001',
+    from: '029302266',
     text: '홍길동님 가입을 환영합니다.',
     naverOptions: {
       talkId: 'NA01TI1903260033550428Hxu04dTEST',
